@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaseAlgorithm/BaseAlgorithm.iml" filepath="$PROJECT_DIR$/BaseAlgorithm/BaseAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComplexityAnalysis/ComplexityAnalysis.iml" filepath="$PROJECT_DIR$/ComplexityAnalysis/ComplexityAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreedyAlgorithms/GreedyAlgorithms.iml" filepath="$PROJECT_DIR$/GreedyAlgorithms/GreedyAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathematicalKnowledge/MathematicalKnowledge.iml" filepath="$PROJECT_DIR$/MathematicalKnowledge/MathematicalKnowledge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Search_GraphTheory/Search_GraphTheory.iml" filepath="$PROJECT_DIR$/Search_GraphTheory/Search_GraphTheory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
+    </modules>
+  </component>
+</project>
