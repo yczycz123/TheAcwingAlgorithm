@@ -3,6 +3,8 @@ package dichotomy;
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
+
+//二分的本质是每次都要保证分到的区间里面有答案
 public class question789 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
