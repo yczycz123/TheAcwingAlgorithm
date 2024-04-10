@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="66c780ff-dcea-4f69-b8ac-7901f53b8042" name="更改" comment="2024/3/23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseAlgorithm/src/dichotomy/question789.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaseAlgorithm/src/dichotomy/question789.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "yczycz123"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yczycz123/TheAcwingAlgorithm.git",
+    "accountId": "f9641e9e-05b8-47f7-9e5f-ca6510329ed3"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -44,8 +55,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "jdk-17",
-    "last_opened_file_path": "D:/study/language/java/code/algorithm",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/study/language/java/code/project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +70,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -69,7 +90,9 @@
       <workItem from="1710918326528" duration="595000" />
       <workItem from="1710937102687" duration="4221000" />
       <workItem from="1711116728237" duration="982000" />
-      <workItem from="1711156121615" duration="4112000" />
+      <workItem from="1711156121615" duration="5398000" />
+      <workItem from="1711181723888" duration="68000" />
+      <workItem from="1712738724286" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="2024/3/19">
       <option name="closed" value="true" />
@@ -103,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711162135560</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2024/3/23">
+      <option name="closed" value="true" />
+      <created>1711164113270</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711164113270</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
